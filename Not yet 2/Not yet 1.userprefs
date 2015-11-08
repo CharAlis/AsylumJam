@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemies\ReaperBehaviour.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" Line="11" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\ReaperBehaviour.cs" Line="42" Column="58" />
+      <File FileName="Assets\Scripts\Enemies\StalkerSpawnActivator.cs" Line="16" Column="43" />
+      <File FileName="Assets\Scripts\TriggerSystem.cs" Line="29" Column="3" />
+      <File FileName="Assets\Scripts\ChangeFogDirection.cs" Line="23" Column="1" />
+      <File FileName="Assets\Scripts\FogMovement.cs" Line="10" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
