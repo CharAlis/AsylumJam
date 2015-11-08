@@ -53,4 +53,5 @@ public class PromptSystem : MonoBehaviour
         text.color = new Color(text.color.r, text.color.g, text.color.b, 0f);
         yield return null;
     }
+    // This is a dummy line
 }
